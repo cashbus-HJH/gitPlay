@@ -10,8 +10,4 @@ this is master branch!
 this is dev branch!
 ---------------------------
 
-<<<<<<< HEAD
-devdevdevdevdevdevdevdevdevdevdevdevdevdevdevdev
-=======
-mastermastermastermastermastermastermastermastermastermastermastermaster
->>>>>>> master
+just feature
