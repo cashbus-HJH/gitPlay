@@ -6,5 +6,8 @@ Creating a new branch is quick.
 
 master!
 
-feature01@
+master@
 
+feature01~
+
+feature01@
